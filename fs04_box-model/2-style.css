@@ -46,7 +46,7 @@ p.p3 {
 }
 
 p.p4 {
-	font-size: 2vw;
+	font-size: 2vw;  /* view width */
 	color: yellowgreen;
 }
 

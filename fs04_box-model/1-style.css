@@ -79,6 +79,7 @@ p.pp4 {
 /* Text Direction  */
 p.pp5 {
     direction: rtl;
+	/* unicode-bidi: bidi-override; */
     color: fuchsia;
 }
 
