@@ -1,0 +1,20 @@
+ul.first {
+    list-style-type: circle;
+}
+
+ul.second {
+list-style-type: none;
+}
+
+ul.third {
+    list-style-image: url("https://picsum.photos/id/600/10/10");
+    
+}
+
+ul.fourth {
+    list-style-position: inside;
+}
+
+ul.fifth {
+    list-style: square inside url("https://picsum.photos/id/10/20/20");
+}
