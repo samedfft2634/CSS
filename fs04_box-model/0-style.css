@@ -1,0 +1,43 @@
+/* The Universal Selector  */
+* {
+	margin: 0;
+	padding: 0;
+	color: black;
+}
+
+/* box models  */
+div {
+	border: 1px solid black;
+	padding: 10px;
+	margin: 10px;
+}
+
+/* css selectors  */
+p {
+	text-align: center;
+	color: red;
+}
+
+/* css id selector  */
+#text1 {
+	color: blue;
+}
+
+/* id override (.text2 class does not appear on web page) */
+.text2 {
+	color: green;
+}
+
+/* 1-- css class selector */
+.error {
+	background-color: bisque;
+}
+p.error {
+	background-color: green;
+}
+
+/* single-line comment  */
+
+/* multi-line 
+comment */
+
